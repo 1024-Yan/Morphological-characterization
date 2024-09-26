@@ -28,6 +28,10 @@ For scatter plots and principal component analysis (PCA)
 The `data.csv` file comprises the morphological measurement data employed in the analysis, serving as a reference for executing the scripts and generating visualizations.
 Date originated from research titled "Study of Epiphytic non-geniculate Coralline Algae Reveals an Evolutionarily Significant Genus, Pseudoderma gen. nov. (Lithophylloideae, Corallinophycidae)", wherein fifty samples were selected from five representative taxa of epiphytic non-geniculate coralline algae, to assess their morphological characteristics. Measurements were taken for thallus thickness (T.Thickness), cell layers (Layers), hypothallial height (H.Thickness), and hypothallial cell size (Hcell.Length, Hcell.Width). 
 
+## Citation
+
+If you use the `data.csv` file, please ensure to cite it appropriately. For citation details, kindly refer to the [CITATION.cff](CITATION.cff) file.
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
