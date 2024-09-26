@@ -1,0 +1,12 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use the measurement data, please cite it as below."
+authors:
+- family-names: Yan
+  given-names: Shu Heng
+
+title: "Morphological characterization of epiphytic non-geniculate coralline algae in China"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-09-25
+url: "https://github.com/1024-Yan/Morphological-characterization"
